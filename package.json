@@ -29,7 +29,7 @@
   },
   "scripts": {},
   "dependencies": {
-    "amdextract": "^2.0.0"
+    "amdextract": "git://github.com/ericleite/amdextract.git"
   },
   "devDependencies": {
     "grunt": "~0.4.0"
